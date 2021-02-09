@@ -14,7 +14,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 - 👨🏽‍💻 I’m currently building my CP skills.
 - 🌱 I’m currently a learner. 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@PChangoiwala](https://www.linkedin.com/in/samay09/);
+- 📫 How to reach me: [@samay_var](https://www.linkedin.com/in/samay09/);
 - 📝[Resume](https://drive.google.com/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SAMAYV.SAMAYV)
