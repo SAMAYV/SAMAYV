@@ -4,18 +4,23 @@
 
 <br />
 
-I am a pre-final year student at Indian Institute of Technology, Guwahati. I like exploring tech and building new stuffs. I likes to explore new algorithms and follows competitive programming and development coding. I work mainly on Django framework but started learning Android Programming recently. I like to compete in programming contests and follows it as my passion. You can reach me through LinkedIn.
+I am a B.Tech Computer Science graduate from IIT Guwahati (2018-2022).
+I am currently working in a Confidential High Frequency Trading Firm as a Software Engineer. 
+Prior to this I have worked at D.E Shaw & Co. towards Software development role and had done a past Software Engineering internship at Microsoft.
+I like exploring tech and building new stuffs. I likes to explore new algorithms and follows competitive programming and development coding. 
+I like to compete in programming contests and follows it as my passion. 
+You can reach me through LinkedIn.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently building my CP skills.
-- 🌱 I’m currently a learner. 
+- 👨🏽‍💻 I’m currently building my software development skills.
+- 🌱 I’m currently a software engineer. 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@samay_var](https://www.linkedin.com/in/samay09/);
-- 📝[Resume](https://drive.google.com/)
+- 📝[Resume: ](https://drive.google.com/file/d/1TxcULYK9S6hg3ZfoRzV8es5yLqaB2vzE/view?usp=sharing);
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SAMAYV.SAMAYV)
 
@@ -56,7 +61,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  
-<a href="https://www.linkedin.com/in/samay09/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> <a href="https://www.facebook.com/samay.varshney.31/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a> <a href="mailto:samay@iitg.ac.in" target="_blank"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/samay09/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> <a href="https://www.facebook.com/samay.varshney.31/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a> <a href="mailto:samay@iitg.ac.in" target="_blank"><img src="https://www.flaticon.com/free-icon/gmail_732200" width="40"></a>
 <br>
 <br>
 
